@@ -1,0 +1,21 @@
+{
+    "params":
+    {
+        "local_server":"True",
+        "local_uri":"mysql://root:@localhost/pycafe",
+        "prod_uri":"mysql://root:@localhost/pycafe",
+        "fb_url":"https://facebook.com/pycafe",
+        "tw_url":"https://twitter.com/pycafe",
+        "gh_url":"https://github.com/pycafe",
+        "blog_name":"Py Cafe",
+        "tag_line":"A Chrunchy Blog",
+        "gmail_user":"",
+        "gmail_password":"",
+        "about_text":"hi my name is shubhang .",
+        "no_of_posts":2,
+        "login_image":"login_img.svg",
+        "admin_user":"shubhang_verma",
+        "admin_password":"333sss666999",
+        "upload_location":"---------"
+    }
+}
